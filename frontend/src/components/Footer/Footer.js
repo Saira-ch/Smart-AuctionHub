@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="footer-logo">
           <div className="footer-logo-text">
             <Link to="/">
-              <img src="/Images/logo-02 (1).svg" alt="" />
+              <img src="" alt="logo" />
             </Link>
             <p>
               Explore a vast array of items up for bid, From antiques to
@@ -32,15 +32,15 @@ const Footer = () => {
           <div className="footer-address">
             <div className="mail-address">
               <Mail />
-              <p>gbauctions@gmail.com</p>
+              <p>auctionhub@gmail.com</p>
             </div>
             <div className="mail-address">
               <PhoneCall />
-              <p>(051) 345 7989</p>
+              <p>123465656</p>
             </div>
             <div className="mail-address">
               <MapPin />
-              <p>Gilgit Baltistan, Pakistan</p>
+              <p>Punjab, Pakistan</p>
             </div>
           </div>
         </div>
@@ -112,9 +112,9 @@ const Footer = () => {
       <div className=" max-width copyright-section">
         <div className="copy-right-inner">
           <span>
-            All <MdCopyright /> rights reserved to GB Auctions
+            All <MdCopyright /> rights reserved to AuctionHub
           </span>
-          <span>Develop by ZH Studio</span>
+          <span>Develop by </span>
         </div>
       </div>
     </div>

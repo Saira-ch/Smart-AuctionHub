@@ -1,5 +1,5 @@
 const express = require('express');
-const { store, login, forgetPassword, getAllUsers, getTotalUsers } = require('../coontrollers/userController');
+const { store, login, forgetPassword, getAllUsers, getTotalUsers } = require('../controllers/userController');
 const router = express.Router();
 
 router.post("/",store);

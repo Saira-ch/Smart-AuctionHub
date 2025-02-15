@@ -73,7 +73,7 @@ const Login = () => {
               <form onSubmit={handleLogin}>
                 <h1>Get Started Now</h1>
                 <p>We're happy you're here!</p>
-                <h2>Login To GB Auction</h2>
+                <h2>Login To AuctionHub Auction</h2>
                 <div className="login-inputs">
                   <span>
                     <User />
@@ -100,7 +100,7 @@ const Login = () => {
               </form>
               <div className="login-left-side">
                 <div className="login-left-text">
-                  <img src="/Images/logo-02 (1).svg" />
+                  <img src=""alt="logo" />
                   <h1>
                     IF NEW CREATE <br /> ACCOUNT?
                   </h1>

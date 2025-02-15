@@ -1,5 +1,5 @@
 const express = require('express');
-const { biddingOnProduct, getHighestBid, totalBids, getProductBids } = require('../coontrollers/biddingController');
+const { biddingOnProduct, getHighestBid, totalBids, getProductBids } = require('../controllers/biddingController');
 const { auth, isAuthorizedRole } = require('../middlewares/authentication')
 
 const router = express.Router();

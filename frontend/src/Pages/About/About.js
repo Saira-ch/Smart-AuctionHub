@@ -12,9 +12,9 @@ const About = () => {
         <div className="max-width about-pagr-inner">
           <div className="about-right-side">
             <h1>About Us</h1>
-            <h2>GB Auction</h2>
+            <h2>AuctionHub</h2>
             <p>
-              At Gb Auction, we're passionate about creating an electrifying
+              At AutionHUb, we're passionate about creating an electrifying
               bidding experience where every bid counts. Our platform brings
               together buyers and sellers in a dynamic marketplace, offering a
               diverse range of items up for auction. With a commitment to
@@ -24,7 +24,7 @@ const About = () => {
             </p>
           </div>
           <div className="about-left-side">
-            <img src="/Images/about.png" alt="" />
+            <img src="" alt="developer " />
           </div>
         </div>
       </div>
@@ -38,27 +38,27 @@ const About = () => {
         </div>
         <div className="teams-cards">
           <div className="team-card-one">
-            <img src="/Images/z3.png" alt="" />
+            <img src="" alt="developer" />
             <div className="team-member-detail">
-              <h3>Zultaif Hassan</h3>
-              <h4>CEO & Founder</h4>
-              <p>Zultaifhassan110@gmail.com</p>
+              <h3>Saira Noreen</h3>
+              <h4>Developer</h4>
+              <p>saira@gmail.com</p>
             </div>
           </div>
           <div className="team-card-one">
-            <img src="/Images/sdsds.jpg" alt="" />
+            <img src="" alt="img" />
             <div className="team-member-detail">
-              <h3>Zultaif Hassan</h3>
-              <h4>CTO & Founder</h4>
-              <p>Zultaifhassan110@gmail.com</p>
+              <h3>Arshiya Arif</h3>
+              <h4>ML Engineer</h4>
+              <p>arshiya@gmail.com</p>
             </div>
           </div>
           <div className="team-card-one">
-            <img src="/Images/ansar.jpeg" alt="" />
+            <img src="" alt="developer" />
             <div className="team-member-detail">
-              <h3>Ansar Ali</h3>
-              <h4>COO</h4>
-              <p>ansaralyh@gmail.com</p>
+              <h3>Dilbar Ali</h3>
+              <h4>developer</h4>
+              <p>dilbar@gmail.com</p>
             </div>
           </div>
         </div>

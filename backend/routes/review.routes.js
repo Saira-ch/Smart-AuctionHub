@@ -1,5 +1,5 @@
 const express = require('express');
-const { createReview, getTotalReviews, getAllReviews } = require('../coontrollers/reviewController');
+const { createReview, getTotalReviews, getAllReviews } = require('../controllers/reviewController');
 
 
 const router = express.Router();

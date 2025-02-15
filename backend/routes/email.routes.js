@@ -1,5 +1,5 @@
 const express = require('express');
-const { createEmail, getTotalEmails, getAllMails } = require('../coontrollers/emailController');
+const { createEmail, getTotalEmails, getAllMails } = require('../controllers/emailController');
 
 const router = express.Router();
 
